@@ -19,3 +19,10 @@
 - Тести: tests/
 - Scrum-план і MVP: docs/PR3_ScrumPlan_MVP.docx
 - Backlog (декомпозиція MVP): docs/PR4_Backlog_Decomposition.docx
+
+## План розробки
+1. Аналіз вимог
+2. Створення прототипу
+3. Реалізація функціоналу
+4. Тестування
+5. Реліз
